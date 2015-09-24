@@ -1,0 +1,1 @@
+C:\Visual Studio Projects\Chapter 03\OrderReceiptGUI\bin\Debug\OrderReceiptGUI.exe.config
