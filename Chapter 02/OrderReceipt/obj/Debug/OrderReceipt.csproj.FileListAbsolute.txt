@@ -1,0 +1,5 @@
+C:\Visual Studio Projects\Introduction to OOP\OrderReceipt\bin\Debug\OrderReceipt.exe.config
+C:\Visual Studio Projects\Introduction to OOP\OrderReceipt\bin\Debug\OrderReceipt.exe
+C:\Visual Studio Projects\Introduction to OOP\OrderReceipt\bin\Debug\OrderReceipt.pdb
+C:\Visual Studio Projects\Introduction to OOP\OrderReceipt\obj\Debug\OrderReceipt.exe
+C:\Visual Studio Projects\Introduction to OOP\OrderReceipt\obj\Debug\OrderReceipt.pdb

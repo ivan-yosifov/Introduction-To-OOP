@@ -1,0 +1,3 @@
+C:\Visual Studio Projects\Chapter 02\Yards\bin\Debug\Yards.exe.config
+C:\Visual Studio Projects\Chapter 02\Yards\obj\Debug\Yards.exe
+C:\Visual Studio Projects\Chapter 02\Yards\obj\Debug\Yards.pdb

@@ -1,0 +1,5 @@
+C:\Visual Studio Projects\Introduction to OOP\PigLatin\bin\Debug\PigLatin.exe.config
+C:\Visual Studio Projects\Introduction to OOP\PigLatin\bin\Debug\PigLatin.exe
+C:\Visual Studio Projects\Introduction to OOP\PigLatin\bin\Debug\PigLatin.pdb
+C:\Visual Studio Projects\Introduction to OOP\PigLatin\obj\Debug\PigLatin.exe
+C:\Visual Studio Projects\Introduction to OOP\PigLatin\obj\Debug\PigLatin.pdb

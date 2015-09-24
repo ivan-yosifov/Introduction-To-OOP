@@ -1,0 +1,5 @@
+C:\Visual Studio Projects\Introduction to OOP\TestsInteractive\bin\Debug\TestsInteractive.exe.config
+C:\Visual Studio Projects\Introduction to OOP\TestsInteractive\bin\Debug\TestsInteractive.exe
+C:\Visual Studio Projects\Introduction to OOP\TestsInteractive\bin\Debug\TestsInteractive.pdb
+C:\Visual Studio Projects\Introduction to OOP\TestsInteractive\obj\Debug\TestsInteractive.exe
+C:\Visual Studio Projects\Introduction to OOP\TestsInteractive\obj\Debug\TestsInteractive.pdb

@@ -1,0 +1,5 @@
+C:\Visual Studio Projects\Introduction to OOP\Eggs\bin\Debug\Eggs.exe.config
+C:\Visual Studio Projects\Introduction to OOP\Eggs\bin\Debug\Eggs.exe
+C:\Visual Studio Projects\Introduction to OOP\Eggs\bin\Debug\Eggs.pdb
+C:\Visual Studio Projects\Introduction to OOP\Eggs\obj\Debug\Eggs.exe
+C:\Visual Studio Projects\Introduction to OOP\Eggs\obj\Debug\Eggs.pdb

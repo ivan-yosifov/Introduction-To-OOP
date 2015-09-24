@@ -1,0 +1,6 @@
+C:\Visual Studio Projects\Introduction to OOP\DoubleDecimalTest\bin\Debug\DoubleDecimalTest.exe.config
+C:\Visual Studio Projects\Introduction to OOP\DoubleDecimalTest\bin\Debug\DoubleDecimalTest.exe
+C:\Visual Studio Projects\Introduction to OOP\DoubleDecimalTest\bin\Debug\DoubleDecimalTest.pdb
+C:\Visual Studio Projects\Introduction to OOP\DoubleDecimalTest\obj\Debug\DoubleDecimalTest.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projects\Introduction to OOP\DoubleDecimalTest\obj\Debug\DoubleDecimalTest.exe
+C:\Visual Studio Projects\Introduction to OOP\DoubleDecimalTest\obj\Debug\DoubleDecimalTest.pdb

@@ -1,0 +1,6 @@
+C:\Visual Studio Projects\Introduction to OOP\Payroll\bin\Debug\Payroll.exe.config
+C:\Visual Studio Projects\Introduction to OOP\Payroll\bin\Debug\Payroll.exe
+C:\Visual Studio Projects\Introduction to OOP\Payroll\bin\Debug\Payroll.pdb
+C:\Visual Studio Projects\Introduction to OOP\Payroll\obj\Debug\Payroll.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projects\Introduction to OOP\Payroll\obj\Debug\Payroll.exe
+C:\Visual Studio Projects\Introduction to OOP\Payroll\obj\Debug\Payroll.pdb

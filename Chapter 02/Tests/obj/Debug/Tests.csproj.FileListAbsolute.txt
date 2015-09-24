@@ -1,0 +1,5 @@
+C:\Visual Studio Projects\Introduction to OOP\Tests\bin\Debug\Tests.exe.config
+C:\Visual Studio Projects\Introduction to OOP\Tests\bin\Debug\Tests.exe
+C:\Visual Studio Projects\Introduction to OOP\Tests\bin\Debug\Tests.pdb
+C:\Visual Studio Projects\Introduction to OOP\Tests\obj\Debug\Tests.exe
+C:\Visual Studio Projects\Introduction to OOP\Tests\obj\Debug\Tests.pdb

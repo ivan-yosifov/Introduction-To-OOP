@@ -1,0 +1,5 @@
+C:\Visual Studio Projects\Introduction to OOP\Yards\bin\Debug\Yards.exe.config
+C:\Visual Studio Projects\Introduction to OOP\Yards\bin\Debug\Yards.exe
+C:\Visual Studio Projects\Introduction to OOP\Yards\bin\Debug\Yards.pdb
+C:\Visual Studio Projects\Introduction to OOP\Yards\obj\Debug\Yards.exe
+C:\Visual Studio Projects\Introduction to OOP\Yards\obj\Debug\Yards.pdb

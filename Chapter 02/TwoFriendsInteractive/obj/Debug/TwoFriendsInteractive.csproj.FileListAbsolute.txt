@@ -1,0 +1,5 @@
+C:\Visual Studio Projects\Introduction to OOP\TwoFriendsInteractive\bin\Debug\TwoFriendsInteractive.exe.config
+C:\Visual Studio Projects\Introduction to OOP\TwoFriendsInteractive\bin\Debug\TwoFriendsInteractive.exe
+C:\Visual Studio Projects\Introduction to OOP\TwoFriendsInteractive\bin\Debug\TwoFriendsInteractive.pdb
+C:\Visual Studio Projects\Introduction to OOP\TwoFriendsInteractive\obj\Debug\TwoFriendsInteractive.exe
+C:\Visual Studio Projects\Introduction to OOP\TwoFriendsInteractive\obj\Debug\TwoFriendsInteractive.pdb

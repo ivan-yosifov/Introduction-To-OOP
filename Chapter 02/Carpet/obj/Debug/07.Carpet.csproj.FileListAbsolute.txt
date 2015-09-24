@@ -1,0 +1,6 @@
+C:\Visual Studio Projects\Chapter 02\Carpet\bin\Debug\Carpet.exe.config
+C:\Visual Studio Projects\Chapter 02\Carpet\bin\Debug\Carpet.exe
+C:\Visual Studio Projects\Chapter 02\Carpet\bin\Debug\Carpet.pdb
+C:\Visual Studio Projects\Chapter 02\Carpet\obj\Debug\07.Carpet.csprojResolveAssemblyReference.cache
+C:\Visual Studio Projects\Chapter 02\Carpet\obj\Debug\Carpet.exe
+C:\Visual Studio Projects\Chapter 02\Carpet\obj\Debug\Carpet.pdb

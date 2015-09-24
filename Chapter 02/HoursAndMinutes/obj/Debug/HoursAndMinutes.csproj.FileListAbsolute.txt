@@ -1,0 +1,5 @@
+C:\Visual Studio Projects\Introduction to OOP\HoursAndMinutes\bin\Debug\HoursAndMinutes.exe.config
+C:\Visual Studio Projects\Introduction to OOP\HoursAndMinutes\bin\Debug\HoursAndMinutes.exe
+C:\Visual Studio Projects\Introduction to OOP\HoursAndMinutes\bin\Debug\HoursAndMinutes.pdb
+C:\Visual Studio Projects\Introduction to OOP\HoursAndMinutes\obj\Debug\HoursAndMinutes.exe
+C:\Visual Studio Projects\Introduction to OOP\HoursAndMinutes\obj\Debug\HoursAndMinutes.pdb
