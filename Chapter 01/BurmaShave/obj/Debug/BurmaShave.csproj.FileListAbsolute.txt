@@ -1,0 +1,10 @@
+C:\Visual Studio Projects\Introduction to OOP\BurmaShave\bin\Debug\BurmaShave.exe.config
+C:\Visual Studio Projects\Introduction to OOP\BurmaShave\bin\Debug\BurmaShave.exe
+C:\Visual Studio Projects\Introduction to OOP\BurmaShave\bin\Debug\BurmaShave.pdb
+C:\Visual Studio Projects\Introduction to OOP\BurmaShave\obj\Debug\BurmaShave.exe
+C:\Visual Studio Projects\Introduction to OOP\BurmaShave\obj\Debug\BurmaShave.pdb
+C:\Visual Studio Projects\Chapter 01\BurmaShave\bin\Debug\BurmaShave.exe.config
+C:\Visual Studio Projects\Chapter 01\BurmaShave\obj\Debug\BurmaShave.exe
+C:\Visual Studio Projects\Chapter 01\BurmaShave\obj\Debug\BurmaShave.pdb
+C:\Visual Studio Projects\Chapter 01\BurmaShave\bin\Debug\BurmaShave.exe
+C:\Visual Studio Projects\Chapter 01\BurmaShave\bin\Debug\BurmaShave.pdb

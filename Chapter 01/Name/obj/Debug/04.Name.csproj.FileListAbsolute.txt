@@ -1,0 +1,3 @@
+C:\Visual Studio Projects\Chapter 01\Name\bin\Debug\Name.exe.config
+C:\Visual Studio Projects\Chapter 01\Name\obj\Debug\Name.exe
+C:\Visual Studio Projects\Chapter 01\Name\obj\Debug\Name.pdb
